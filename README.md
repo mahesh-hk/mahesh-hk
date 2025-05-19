@@ -10,7 +10,7 @@ Thanks for stopping by.
 📫 **Connect**: [LinkedIn](https://www.linkedin.com/in/maheshkh/)
 
 🛠️ **Languages**:
-Python | C++ | Java | SQL  
+Python | C | C++ | Java | SQL  
 
 🧪 **Current Focus**:
 - Researching semantic parsing for intelligent scientific retrieval
