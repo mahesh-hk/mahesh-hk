@@ -15,6 +15,3 @@ Python | C | C++ | Java | SQL
 🧪 **Current Focus**:
 - Researching semantic parsing for intelligent scientific retrieval
 - Building ML systems in C++ (for learning and control)
-
-📘 **Note**:
-Most of my work is research-oriented or exploratory in nature and not ready for public release. What’s shared here are personal or fun side projects I use to learn, experiment, or explore new ideas.
